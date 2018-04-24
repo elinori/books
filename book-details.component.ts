@@ -34,10 +34,6 @@ date: Date;
 //  add a book  to the table
   addBook(title,auther,date)
   {
-    console.log(title)
-    console.log(auther)
-
-    console.log(date)
 
       if(title==undefined||auther==undefined||date==undefined)
       {
